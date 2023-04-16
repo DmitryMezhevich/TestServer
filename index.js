@@ -18,7 +18,7 @@ const io = new Server(server, {
     }
 })
 
-server.listen(500, () => {
+server.listen(5000, () => {
     console.log("Server running")
 })
 
